@@ -1,7 +1,7 @@
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20%20with-Stylus-00adad.svg?style=for-the-badge&logo=stylus)](https://raw.githubusercontent.com/FadeMind/nextdns-darkblue/master/nextdns-darkblue.user.css) 
 
 # nextDNS Dark Blue Variant
-A nextDNS Dark Blue Variant for nextDNS
+A nextDNS Dark Blue Variant for nextDNS Dashboard
 
 Based on awesome **[nextdnsdarktheme](https://github.com/neo773/nextdnsdarktheme)** by **neo773**
 

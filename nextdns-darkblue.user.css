@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         nextDNS Dark Blue
-@version      1.0.2
-@description  A nextDNS Dark Blue Variant for nextDNS
+@version      1.0.3
+@description  A nextDNS Dark Blue Variant for nextDNS Dashboard
 @namespace    FadeMind
 @author       FadeMind
 @homepageURL  https://github.com/FadeMind/nextdns-darkblue
@@ -10,7 +10,7 @@
 @license      MIT
 ==/UserStyle== */
 
-@-moz-document domain("nextdns.io") {
+@-moz-document domain("my.nextdns.io") {
     body {
         font-family: 'Inter', sans-serif!important;
         background: #161616;
