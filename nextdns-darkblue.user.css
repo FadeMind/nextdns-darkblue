@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name         nextDNS Dark Blue
-@version      1.0.5
+@version      1.0.6
 @description  A nextDNS Dark Blue Variant for nextDNS Dashboard
 @namespace    FadeMind
 @author       FadeMind
@@ -332,11 +332,8 @@
     .rsm-svg {
         filter: none!important;
     }
-    .rsm-geographies > path {
-        fill: rgb(52 51 50)!important;
-        stroke: rgb(22 22 22)!important;
-        stroke-width: 0.5;
-        outline: none;
+    g.rsm-geographies {
+        filter: invert(1) hue-rotate(180deg) brightness(130%) !important;
     }
     g.recharts-pie-sector[name='others'] {
         fill: #252528!important;
